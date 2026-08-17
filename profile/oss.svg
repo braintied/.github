@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 420" role="img" aria-labelledby="t d">
+  <title id="t">Watchtower and Research, on hardware you control</title>
+  <desc id="d">Watchtower: agent to hook to your server to your database. Research: question and dollar cap to search to cite to a grounded report.</desc>
+  <rect width="880" height="420" fill="#0a0a0a"/>
+  <rect x="8" y="8" width="864" height="404" fill="none" stroke="#ccff00" stroke-width="2"/>
+
+  <text x="36" y="48" fill="#ccff00" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="2">WATCHTOWER</text>
+  <text x="36" y="70" fill="#9aa08a" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">session capture · no model required</text>
+
+  <g font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#ccff00">
+    <rect x="36" y="92" width="150" height="56" rx="8" fill="#161616" stroke="#3a3f2a"/>
+    <text x="111" y="126" text-anchor="middle">your agent</text>
+    <path d="M194 120 h28" stroke="#ccff00" stroke-width="2"/>
+    <polygon points="222,116 234,120 222,124" fill="#ccff00"/>
+
+    <rect x="242" y="92" width="150" height="56" rx="8" fill="#161616" stroke="#3a3f2a"/>
+    <text x="317" y="126" text-anchor="middle">hook / disk</text>
+    <path d="M400 120 h28" stroke="#ccff00" stroke-width="2"/>
+    <polygon points="428,116 440,120 428,124" fill="#ccff00"/>
+
+    <rect x="448" y="92" width="170" height="56" rx="8" fill="#161616" stroke="#3a3f2a"/>
+    <text x="533" y="126" text-anchor="middle">your server :5003</text>
+    <path d="M626 120 h28" stroke="#ccff00" stroke-width="2"/>
+    <polygon points="654,116 666,120 654,124" fill="#ccff00"/>
+
+    <rect x="674" y="92" width="170" height="56" rx="8" fill="#161616" stroke="#ccff00"/>
+    <text x="759" y="126" text-anchor="middle">your Postgres</text>
+  </g>
+
+  <text x="36" y="210" fill="#ccff00" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="2">RESEARCH</text>
+  <text x="36" y="232" fill="#9aa08a" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">cited search · spend only after a cap</text>
+
+  <g font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" fill="#ccff00">
+    <rect x="36" y="254" width="190" height="56" rx="8" fill="#161616" stroke="#3a3f2a"/>
+    <text x="131" y="288" text-anchor="middle">question + $ cap</text>
+    <path d="M234 282 h28" stroke="#ccff00" stroke-width="2"/>
+    <polygon points="262,278 274,282 262,286" fill="#ccff00"/>
+
+    <rect x="282" y="254" width="170" height="56" rx="8" fill="#161616" stroke="#3a3f2a"/>
+    <text x="367" y="288" text-anchor="middle">search / fetch</text>
+    <path d="M460 282 h28" stroke="#ccff00" stroke-width="2"/>
+    <polygon points="488,278 500,282 488,286" fill="#ccff00"/>
+
+    <rect x="508" y="254" width="130" height="56" rx="8" fill="#161616" stroke="#3a3f2a"/>
+    <text x="573" y="288" text-anchor="middle">cite</text>
+    <path d="M646 282 h28" stroke="#ccff00" stroke-width="2"/>
+    <polygon points="674,278 686,282 674,286" fill="#ccff00"/>
+
+    <rect x="694" y="254" width="150" height="56" rx="8" fill="#161616" stroke="#ccff00"/>
+    <text x="769" y="288" text-anchor="middle">grounded report</text>
+  </g>
+
+  <text x="36" y="364" fill="#6b705c" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12">Your host. Your keys. Not Braintied machines.</text>
+</svg>
