@@ -1,3 +1,3 @@
 <p>
-  <img src="term.png" width="880" alt="ora, watchtower, sentigen, kit, kulti. people talk. agents ship." />
+  <img src="term.gif" width="880" alt="ora, watchtower, sentigen, kit, kulti. running." />
 </p>
